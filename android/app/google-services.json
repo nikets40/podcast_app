@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "153266616726",
+    "project_id": "podcast-app-a7be7",
+    "storage_bucket": "podcast-app-a7be7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153266616726:android:e2ee217aee6b67573885b7",
+        "android_client_info": {
+          "package_name": "com.example.podcast_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153266616726-ci6793l61vk28d5kcrbko7rojtkfpkh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcast_app",
+            "certificate_hash": "2ca4cd668f928a806384a80fc9c0466a5af53442"
+          }
+        },
+        {
+          "client_id": "153266616726-n6go5ujqcpqgk24in29ueba7pev4aipk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcast_app",
+            "certificate_hash": "fe9ba630cd699a43bd9aa3a24cf1a83f017c424f"
+          }
+        },
+        {
+          "client_id": "153266616726-ueocn932ovcusm96phsv59ktuvt62p3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcast_app",
+            "certificate_hash": "8fa8ff685df1067f1f080984406ac35091b00e96"
+          }
+        },
+        {
+          "client_id": "153266616726-k4jq69tn59lco390p81k6qi8pnbt6a32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3v5SiSZdhPefUABFOWQ0hI6281cRmpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153266616726-k4jq69tn59lco390p81k6qi8pnbt6a32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153266616726-1j62e8gnt357b77b8h5kj09o2el03qka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.podcastApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
